@@ -1,0 +1,7 @@
+# Local files
+**/src/*
+
+**/result/*
+
+# result file
+*_RESULT.properties

@@ -1,0 +1,2 @@
+terraform-az-resources-demo
+my-kube-config-v1
